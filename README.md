@@ -1,4 +1,4 @@
-<img src="./assets/falco_audit_log.png" height="500" width="500"/>
+![falco_audit_log](./assets/falco_audit_log.png")
 
 # Analyze Kubernetes Audit logs using Falco
 There is concept called "Event Sources" in Falco, these "Event Sources" defines where Falco can consume events, and apply rules to these events to detect abnormal behavior. Currently Falco supports thefollowing event sources:
