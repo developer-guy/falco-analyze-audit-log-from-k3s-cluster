@@ -218,7 +218,7 @@ $ sudo systemctl daemon-reload && \
 
 If everything goes fine, you should see similar output like the following image below:
 
-<img src="./assets/everything_should_fine.png" width="600" height="600"/>
+<img src="./assets/everything_should_fine.png" width="700" height="700"/>
 
 In order to test this scenario, we need to create an event that Falco provides alert for it.
 ```bash
