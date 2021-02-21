@@ -18,7 +18,7 @@ In this guide, we are going to use "Kubernetes Audit Logs" as an event source th
 - <img src="https://cncf-branding.netlify.app/img/projects/kubernetes/icon/color/kubernetes-icon-color.svg" height="16" width="16"/> [What are the meanings of Audit Log in Kubernetes ?](#what-are-the-meanings-of-audit-log-in-kubernetes-)
 - <img src="https://cncf-branding.netlify.app/img/projects/kubernetes/icon/color/kubernetes-icon-color.svg" height="16" width="16"/> [How can you enable Audit Log feature in Kubernetes ?](#how-can-you-enable-audit-log-feature-in-kubernetes-)
 - <img src="https://cncf-branding.netlify.app/img/projects/falco/icon/color/falco-icon-color.svg" height="16" width="16"/> [How can you enable embedded web server available within the Falco project ?](#how-can-you-enable-embedded-web-server-available-within-the-falco-project-)
-- <img src="https://gitlab.com/gitlab-org/threat-management/defend/falcosidekick/-/blob/master/imgs/falcosidekick_color.svg" height="16" width="16"/> [What is the purpose of Falcosidekick project ?](#what-is-the-purpose-of-falcosidekick-project-)
+- <img src="https://gitlab.com/gitlab-org/threat-management/defend/falcosidekick/-/raw/master/imgs/falcosidekick_color.svg" height="16" width="16"/> [What is the purpose of Falcosidekick project ?](#what-is-the-purpose-of-falcosidekick-project-)
 
 - 👨‍💻 [Hands On](#hands-on)
 
