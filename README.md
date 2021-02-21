@@ -22,6 +22,7 @@ In this guide, we are going to use "Kubernetes Audit Logs" as an event source th
 - <img src="https://raw.githubusercontent.com/falcosecurity/falcosidekick/master/imgs/falcosidekick_color.svg" height="16" width="16"/> [What is the purpose of Falcosidekick project ?](#what-is-the-purpose-of-falcosidekick-project-)
 
 - 👨‍💻 [Hands On](#hands-on)
+- 👀 [References](#references)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -235,4 +236,9 @@ Forwarding from [::1]:2802 -> 2802
 
 Open the browser, go to the localhost:2802, you should see similar screen following below:
 ![falco_sidekick_ui](./assets/falcosidekick_ui.png)
+
+# References
+* https://blog.alexellis.io/falco-at-the-edge-arm64/
+* https://falco.org/blog/extend-falco-outputs-with-falcosidekick/
+* https://sysdig.com/blog/kubernetes-audit-log-falco
 
