@@ -149,7 +149,7 @@ $ tmux-cssh -o '-i ~/.ssh/digitalocean_rsa' root@161.35.209.51 root@167.71.44.21
 
 After you run the command you should see similar screen below:
 
-<img src="./assets/tmux_cssh_vm.png" widht="400" height="400"/>
+<img src="./assets/tmux_cssh_vm.png" widht="600" height="600"/>
 
 After that, you should run the following commands to enable Audit Log, once you type command in one screen, it will appear in the other pane immediately.
 ```bash
@@ -218,7 +218,7 @@ $ sudo systemctl daemon-reload && \
 
 If everything goes fine, you should see similar output like the following image below:
 
-<img src="./assets/everything_should_fine.png" width="400" height="400"/>
+<img src="./assets/everything_should_fine.png" width="600" height="600"/>
 
 In order to test this scenario, we need to create an event that Falco provides alert for it.
 ```bash
